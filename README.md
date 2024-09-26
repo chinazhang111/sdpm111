@@ -1,1 +1,1 @@
-成功解析json并下发ECM，底盘、云台、夹具能正确控制。
+01-MachineRemoteCtrl_Vehicle_V2.x_20240926_buffer_success.rar成功解析json并下发ECM，底盘、云台、夹具能正确控制。
